@@ -9,7 +9,6 @@ D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaFo
 D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums\obj\Debug\netcoreapp2.1\LambdaForums.csproj.CoreCompileInputs.cache
 D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums\obj\Debug\netcoreapp2.1\LambdaForums.RazorAssemblyInfo.cache
 D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums\obj\Debug\netcoreapp2.1\LambdaForums.RazorAssemblyInfo.cs
-D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
 D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums\obj\Debug\netcoreapp2.1\LambdaForums.AssemblyInfoInputs.cache
 D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums\obj\Debug\netcoreapp2.1\LambdaForums.AssemblyInfo.cs
 D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums\obj\Debug\netcoreapp2.1\LambdaForums.TagHelpers.input.cache
@@ -35,3 +34,7 @@ D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaFo
 D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums\obj\Debug\netcoreapp2.1\LambdaForums.csproj.CopyComplete
 D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums\bin\Debug\netcoreapp2.1\LambdaForums.Data.dll
 D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums\bin\Debug\netcoreapp2.1\LambdaForums.Data.pdb
+D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums\bin\Debug\netcoreapp2.1\LambdaForums.Service.dll
+D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums\bin\Debug\netcoreapp2.1\LambdaForums.Service.pdb
+D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums\obj\Debug\netcoreapp2.1\Razor\Views\Forum\Index.g.cshtml.cs

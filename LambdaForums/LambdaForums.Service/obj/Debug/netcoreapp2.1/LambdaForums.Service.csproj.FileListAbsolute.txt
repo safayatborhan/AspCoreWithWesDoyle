@@ -1,0 +1,12 @@
+D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums.Service\bin\Debug\netcoreapp2.1\LambdaForums.Service.deps.json
+D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums.Service\bin\Debug\netcoreapp2.1\LambdaForums.Service.dll
+D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums.Service\bin\Debug\netcoreapp2.1\LambdaForums.Service.pdb
+D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums.Service\bin\Debug\netcoreapp2.1\LambdaForums.Data.dll
+D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums.Service\bin\Debug\netcoreapp2.1\LambdaForums.Data.pdb
+D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.1\LambdaForums.Service.csprojAssemblyReference.cache
+D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.1\LambdaForums.Service.csproj.CoreCompileInputs.cache
+D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.1\LambdaForums.Service.AssemblyInfoInputs.cache
+D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.1\LambdaForums.Service.AssemblyInfo.cs
+D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.1\LambdaForums.Service.csproj.CopyComplete
+D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.1\LambdaForums.Service.dll
+D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.1\LambdaForums.Service.pdb

@@ -8,10 +8,12 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\LambdaForums.Data\LambdaForums.Data.csproj" />
+    <ProjectReference Include="..\LambdaForums.Service\LambdaForums.Service.csproj" />
   </ItemGroup>
 
 </Project>

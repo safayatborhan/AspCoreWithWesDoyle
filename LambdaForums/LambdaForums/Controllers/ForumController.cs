@@ -42,8 +42,10 @@ namespace LambdaForums.Controllers
             var postListings = posts.Select(post => new PostListingModel
             {
                 Id = post.Id,
-                AuthorId = post.User.Id,
-                AuthorRating = post.User.Rating,
+                //AuthorId = post.User.Id,
+                //AuthorRating = post.User.Rating,
+                AuthorId = "0249dc73-aa51-43a3-840c-1fcf615f0937",
+                AuthorRating = 0,
                 Title = post.Title,
                 DatePosted = post.Created.ToString(),
                 RepliesCount = post.Replies.Count(),

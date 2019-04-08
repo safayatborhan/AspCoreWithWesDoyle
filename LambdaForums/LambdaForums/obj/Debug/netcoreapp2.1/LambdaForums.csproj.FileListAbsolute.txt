@@ -40,3 +40,4 @@ D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaFo
 D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums\obj\Debug\netcoreapp2.1\LambdaForums.csproj.CopyComplete
 D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums\obj\Debug\netcoreapp2.1\LambdaForums.dll
 D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums\obj\Debug\netcoreapp2.1\LambdaForums.pdb
+D:\MY WORLD\latest programming\ASP.NET CORE WITH WES DOYLE\LambdaForums\LambdaForums\obj\Debug\netcoreapp2.1\Razor\Views\Post\Create.g.cshtml.cs

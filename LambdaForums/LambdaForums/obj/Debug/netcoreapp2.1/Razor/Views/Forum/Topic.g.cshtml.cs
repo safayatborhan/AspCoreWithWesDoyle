@@ -73,7 +73,7 @@ using LambdaForums.Models;
             WriteLiteral(" Forum!</h1>\r\n\r\n<span id=\"headingBtn\">");
             EndContext();
             BeginContext(167, 119, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "34e50295bf6b4334acefd4c2564a5e0b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4edfda8f39444ea7afc1936367d58f49", async() => {
                 BeginContext(267, 15, true);
                 WriteLiteral("Create New Post");
                 EndContext();
@@ -129,7 +129,7 @@ using LambdaForums.Models;
             WriteLiteral("            <tr>\r\n                <td>\r\n                    ");
             EndContext();
             BeginContext(517, 131, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c18994c7c683411db1ff14df5e6b69ce", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fe8d5e0d9da8454c8c33be4918300e82", async() => {
                 BeginContext(585, 26, true);
                 WriteLiteral("\r\n                        ");
                 EndContext();
@@ -234,7 +234,7 @@ else
             WriteLiteral(" posts yet. <br />Why not \r\n            ");
             EndContext();
             BeginContext(1121, 131, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b93d09b69adb42baae6ffa595de71daa", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1070cd26cd064de7b2ba12ef037c43d5", async() => {
                 BeginContext(1197, 51, true);
                 WriteLiteral("\r\n                <span>create</span>\r\n            ");
                 EndContext();

@@ -40,10 +40,10 @@ namespace LambdaForums.Service
         {
             var forum = _context.Forums.Where(f => f.Id == id)
                 .Include(f => f.Posts)
-                    //.ThenInclude(f => f.User)
+                    .ThenInclude(f => f.User)
                 .Include(f => f.Posts)
-                    .ThenInclude(p => p.Replies).FirstOrDefault();
-            //.ThenInclude(r => r.User).FirstOrDefault();
+                    .ThenInclude(p => p.Replies)
+                        .ThenInclude(r => r.User).FirstOrDefault();
             return forum;
         }
 

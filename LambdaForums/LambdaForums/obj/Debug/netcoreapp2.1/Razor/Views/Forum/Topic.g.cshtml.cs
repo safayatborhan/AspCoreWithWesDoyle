@@ -90,7 +90,7 @@ using LambdaForums.Models;
             WriteLiteral("            <tr>\r\n                <td>\r\n                    ");
             EndContext();
             BeginContext(358, 131, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c94f2755b247404282bf5deda49cb8ff", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "556598be696d48698816f8623c2bf7c7", async() => {
                 BeginContext(426, 26, true);
                 WriteLiteral("\r\n                        ");
                 EndContext();
@@ -195,7 +195,7 @@ else
             WriteLiteral(" posts yet. <br />Why not \r\n            ");
             EndContext();
             BeginContext(962, 131, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "07d009c8065b4f34896480aa0725c20c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b712335b8e1f41ebae83de0f0e4ea58d", async() => {
                 BeginContext(1038, 51, true);
                 WriteLiteral("\r\n                <span>create</span>\r\n            ");
                 EndContext();
